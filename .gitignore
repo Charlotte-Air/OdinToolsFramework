@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+ConfigHelper/Editor/.DS_Store
+Utility/.DS_Store
+.DS_Store
